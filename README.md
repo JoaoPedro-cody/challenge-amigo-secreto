@@ -37,3 +37,12 @@ Para acessar o projeto:
 
 ---
 
+## A parte mais desafiadora foi compreender como manipular o DOM (Document Object Model) para criar novos elementos, adicionar conteúdo e inseri-los na estrutura do HTML já existente.
+
+Além disso, precisei aprender a utilizar métodos como:
+
+    document.createElement() para criar o elemento <li>,
+    textContent para inserir o texto com o nome,
+    E appendChild() para anexar o <li> ao <ul>.
+
+Depois de entender esses conceitos e como combiná-los, consegui resolver o problema e deixar o programa funcional.
