@@ -27,7 +27,7 @@ function atualizarAmigos(){
 function  sortearAmigo(){
 
     if (amigos.length === 0 ){
-        resultado.innerHTML = 'O Sorteio de nomes acabou';
+        resultado.innerHTML = 'O Sorteio de amigo secreto acabou!';
     }
     else{
         let numeroSorteado = Math.floor(Math.random() * amigos.length);
