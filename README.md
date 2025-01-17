@@ -16,15 +16,15 @@ Este projeto é parte do Challenge "Praticando Lógica de Programação: Amigo S
 
 ### Demonstração
 ##### Adicionar nomes a lista  
-      1
-      ![image](https://github.com/user-attachments/assets/a26b82ce-6221-4795-9c08-d382d31a3553)
-      2
-      ![image](https://github.com/user-attachments/assets/c3faff86-14cb-49ee-ab05-1ada509d03c5)
+  1
+  ![image](https://github.com/user-attachments/assets/a26b82ce-6221-4795-9c08-d382d31a3553)
+  2
+  ![image](https://github.com/user-attachments/assets/c3faff86-14cb-49ee-ab05-1ada509d03c5)
 #### Sortear um nome
-      1
-      ![image](https://github.com/user-attachments/assets/7b4693e9-f977-4d0a-b67a-04dcb1c5e3c3)
-      2
-      ![image](https://github.com/user-attachments/assets/e16fcec6-e857-4d71-bbf9-30a8b090d5e8)
+  1
+  ![image](https://github.com/user-attachments/assets/7b4693e9-f977-4d0a-b67a-04dcb1c5e3c3)
+  2
+  ![image](https://github.com/user-attachments/assets/e16fcec6-e857-4d71-bbf9-30a8b090d5e8)
 
 ## Acesso ao Projeto
 Para acessar o projeto:
