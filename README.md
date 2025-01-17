@@ -17,7 +17,7 @@ Este projeto é parte do Challenge "Praticando Lógica de Programação: Amigo S
 ---
 
 ### Demonstração
-##### Adicionar nomes a lista  
+#### Adicionar nomes a lista  
   1
   ![image](https://github.com/user-attachments/assets/a26b82ce-6221-4795-9c08-d382d31a3553)
   2
